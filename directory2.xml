@@ -32,4 +32,19 @@
   <DirectoryEntry><Name>Daniel's Ring Group (All Phones)</Name><Telephone>4442</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Daniel's Microsip</Name><Telephone>4443</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Daniel's Yealink</Name><Telephone>4444</Telephone></DirectoryEntry>
+  <SoftKeyItem>
+    <Name>Back</Name>
+    <URL>http://directory.pbx.csptech.org/directory1.xml</URL>
+    <Position>1</Position>
+  </SoftKeyItem>
+  <SoftKeyItem>
+  <Name>Next</Name>
+    <URL>http://directory.pbx.csptech.org/directory3.xml</URL>
+    <Position>2</Position>
+  </SoftKeyItem>
+  <SoftKeyItem>
+    <Name>Exit</Name>
+    <URL>SoftKey:Exit</URL>
+    <Position>4</Position>
+  </SoftKeyItem>
 </CiscoIPPhoneDirectory>
