@@ -1,35 +1,35 @@
 <?xml version="1.0"?>
 <CiscoIPPhoneDirectory>
-  <Title>CSP Directory (Page 2)</Title>
+  <Title>Corporate Directory</Title>
   <Prompt>Select a contact</Prompt>
-  <DirectoryEntry><Name>adisen0013</Name><Telephone>2771778</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>iamanate</Name><Telephone>2771984</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>mrflipflop</Name><Telephone>2772001</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>mrflipflop</Name><Telephone>2772002</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Nyx Kemo (Workshop)</Name><Telephone>2772032</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Nyx Kemo (Nightstand)</Name><Telephone>2772132</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>2223</Name><Telephone>2772223</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Roxanne</Name><Telephone>2772249</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Colin Eales (Grandstream)</Name><Telephone>2772354</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>iam_anate</Name><Telephone>2772511</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Cindy</Name><Telephone>2772600</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Not Recorded - Secondary Conference</Name><Telephone>2772772</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Jayden Moroney (7821)</Name><Telephone>2772880</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Bryce Harrington</Name><Telephone>2772893</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Bon's ATA</Name><Telephone>2772911</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Sacha</Name><Telephone>2773000</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Colin Eales</Name><Telephone>2773010</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Sacha 2</Name><Telephone>2773050</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Jessie</Name><Telephone>2773144</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Seagull Electrics</Name><Telephone>2773131</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Hunter S.</Name><Telephone>2773371</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Craftedkittens</Name><Telephone>2773700</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Bon's Polycom</Name><Telephone>2773865</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Bon's Polycom</Name><Telephone>2774004</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Brandon Smith</Name><Telephone>2774012</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Jacobathan</Name><Telephone>2774112</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Daniel's Elevator Phone</Name><Telephone>2774425</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Daniel's Ring Group (All Phones)</Name><Telephone>2774442</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Daniel's Microsip</Name><Telephone>2774443</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Daniel's Yealink</Name><Telephone>2774444</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>adisen0013</Name><Telephone>1778</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>iamanate</Name><Telephone>1984</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>mrflipflop</Name><Telephone>2001</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>mrflipflop</Name><Telephone>2002</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Nyx Kemo (Workshop)</Name><Telephone>2032</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Nyx Kemo (Nightstand)</Name><Telephone>2132</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>2223</Name><Telephone>2223</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Roxanne</Name><Telephone>2249</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Colin Eales (Grandstream)</Name><Telephone>2354</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>iam_anate</Name><Telephone>2511</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Cindy</Name><Telephone>2600</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Not Recorded - Secondary Conference</Name><Telephone>2</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Jayden Moroney (7821)</Name><Telephone>2880</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Bryce Harrington</Name><Telephone>2893</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Bon's ATA</Name><Telephone>2911</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Sacha</Name><Telephone>3000</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Colin Eales</Name><Telephone>3010</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Sacha 2</Name><Telephone>3050</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Jessie</Name><Telephone>3144</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Seagull Electrics</Name><Telephone>3131</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Hunter S.</Name><Telephone>3371</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Craftedkittens</Name><Telephone>3700</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Bon's Polycom</Name><Telephone>3865</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Bon's Polycom</Name><Telephone>4004</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Brandon Smith</Name><Telephone>4012</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Jacobathan</Name><Telephone>4112</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Daniel's Elevator Phone</Name><Telephone>4425</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Daniel's Ring Group (All Phones)</Name><Telephone>4442</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Daniel's Microsip</Name><Telephone>4443</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Daniel's Yealink</Name><Telephone>4444</Telephone></DirectoryEntry>
 </CiscoIPPhoneDirectory>
