@@ -34,14 +34,19 @@
   <DirectoryEntry><Name>Daniel's Yealink</Name><Telephone>4444</Telephone></DirectoryEntry>
   <SoftKeyItem>
     <Name>Back</Name>
-    <URL>http://directory.pbx.csptech.org/directory1.xml</URL>
+    <URL>http://directory.pbx.csptech.org/directory1.txt</URL>
     <Position>1</Position>
   </SoftKeyItem>
   <SoftKeyItem>
   <Name>Next</Name>
-    <URL>http://directory.pbx.csptech.org/directory3.xml</URL>
+    <URL>http://directory.pbx.csptech.org/directory3.txt</URL>
     <Position>2</Position>
   </SoftKeyItem>
+  <SoftKeyItem>
+    <Name>Dial</Name>
+    <URL>SoftKey:Select</URL>
+    <Position>3</Position>
+  <SoftKeyItem>
   <SoftKeyItem>
     <Name>Exit</Name>
     <URL>SoftKey:Exit</URL>
