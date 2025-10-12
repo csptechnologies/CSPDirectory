@@ -1,35 +1,35 @@
 <?xml version="1.0"?>
 <CiscoIPPhoneDirectory>
-  <Title>CSP Directory (Page 1)</Title>
+  <Title>Corporate Directory</Title>
   <Prompt>Select a contact</Prompt>
-  <DirectoryEntry><Name>CSP Main IVR</Name><Telephone>2770000</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>craftedkittens</Name><Telephone>2770030</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Sebasthian C.</Name><Telephone>2770144</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Cindy</Name><Telephone>2770411</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>ansonzxv</Name><Telephone>2770975</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Buba</Name><Telephone>2771000</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Buba</Name><Telephone>2771001</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Buba</Name><Telephone>2771003</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Leo S.</Name><Telephone>2771004</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Leo S.</Name><Telephone>2771005</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Buba</Name><Telephone>2771007</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>X Burton</Name><Telephone>2771024</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Hello2 ATA</Name><Telephone>2771026</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Nyx Kemo (Desk)</Name><Telephone>2771032</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Colin Eales (7841)</Name><Telephone>2771034</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Thomas Jensen (8845)</Name><Telephone>2771035</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Thomas Jensen (7841)</Name><Telephone>2771038</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>clxdyy</Name><Telephone>2771040</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>clxdyy</Name><Telephone>2771041</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>CSP SwitchBoard</Name><Telephone>2771111</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Hello2</Name><Telephone>2771115</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Fishy in the Sea (Cooper)</Name><Telephone>2771122</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Nyx Kemo (SPA)</Name><Telephone>2771132</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Ayzkxnt</Name><Telephone>2771163</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Colin Eales</Name><Telephone>2771206</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Nyx Kemo (SoftPhone)</Name><Telephone>2771232</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Nyx Kemo (SPA122)</Name><Telephone>2771332</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Nyx Kemo</Name><Telephone>2771432</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Tech K E</Name><Telephone>2771450</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Jaxon Bruce</Name><Telephone>2771738</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>CSP Main IVR</Name><Telephone>0000</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>craftedkittens</Name><Telephone>0030</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Sebasthian C.</Name><Telephone>0144</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Cindy</Name><Telephone>0411</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>ansonzxv</Name><Telephone>0975</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Buba</Name><Telephone>1000</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Buba</Name><Telephone>1001</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Buba</Name><Telephone>1003</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Leo S.</Name><Telephone>1004</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Leo S.</Name><Telephone>1005</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Buba</Name><Telephone>1007</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>X Burton</Name><Telephone>1024</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Hello2 ATA</Name><Telephone>1026</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Nyx Kemo (Desk)</Name><Telephone>1032</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Colin Eales (7841)</Name><Telephone>1034</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Thomas Jensen (8845)</Name><Telephone>1035</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Thomas Jensen (7841)</Name><Telephone>1038</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>clxdyy</Name><Telephone>1040</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>clxdyy</Name><Telephone>1041</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>CSP SwitchBoard</Name><Telephone>1111</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Hello2</Name><Telephone>1115</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Fishy in the Sea (Cooper)</Name><Telephone>1122</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Nyx Kemo (SPA)</Name><Telephone>1132</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Ayzkxnt</Name><Telephone>1163</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Colin Eales</Name><Telephone>1206</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Nyx Kemo (SoftPhone)</Name><Telephone>1232</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Nyx Kemo (SPA122)</Name><Telephone>1332</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Nyx Kemo</Name><Telephone>1432</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Tech K E</Name><Telephone>1450</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Jaxon Bruce</Name><Telephone>1738</Telephone></DirectoryEntry>
 </CiscoIPPhoneDirectory>
