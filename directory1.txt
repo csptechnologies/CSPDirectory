@@ -39,8 +39,13 @@
   </SoftKeyItem>
   <SoftKeyItem>
   <Name>Next</Name>
-    <URL>http://directory.pbx.csptech.org/directory2.xml</URL>
+    <URL>http://directory.pbx.csptech.org/directory2.txt</URL>
     <Position>2</Position>
+  </SoftKeyItem>
+  <SoftKeyItem>
+  <Name>Dial</Name>
+    <URL>SoftKey:Select</URL>
+    <Position>3</Position>
   </SoftKeyItem>
   <SoftKeyItem>
     <Name>Exit</Name>
