@@ -44,7 +44,7 @@
   </SoftKeyItem>
   <SoftKeyItem>
   <Name>Dial</Name>
-    <URL>SoftKey:Select</URL>
+    <URL>Dial:</URL>
     <Position>3</Position>
   </SoftKeyItem>
   <SoftKeyItem>
