@@ -39,7 +39,7 @@
   </SoftKeyItem>
   <SoftKeyItem>
   <Name>Next</Name>
-    <URL>http://directory.csptech.org/directory2.xml</URL>
+    <URL>http://directory.pbx.csptech.org/directory2.xml</URL>
     <Position>2</Position>
   </SoftKeyItem>
   <SoftKeyItem>
