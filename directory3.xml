@@ -1,36 +1,36 @@
 <?xml version="1.0"?>
 <CiscoIPPhoneDirectory>
-  <Title>CSP Directory (Page 3)</Title>
+  <Title>Corporate Directory</Title>
   <Prompt>Select a contact</Prompt>
-  <DirectoryEntry><Name>Daniel's 7841</Name><Telephone>2774445</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Daniel Vise 8845-3PCC</Name><Telephone>2774446</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Daniel 8811 Enterprise</Name><Telephone>2774447</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Daniel's Cisco SPA 525G</Name><Telephone>2774448</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Daniel's Cisco IPC</Name><Telephone>2774449</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Daniel's Landline</Name><Telephone>2774466</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Brandon Sims</Name><Telephone>2774551</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>CIPC</Name><Telephone>2774566</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Ryan's Bedroom</Name><Telephone>2774567</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Ryan's Closet</Name><Telephone>2774568</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Ryan's MicroSIP</Name><Telephone>2774569</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Ryan's Office</Name><Telephone>2774570</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Upstairs Phone</Name><Telephone>2774571</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Living Room Phone</Name><Telephone>2774572</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Ryan's Conference Phone</Name><Telephone>2774580</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Haruk</Name><Telephone>2774673</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Hello2 Cell</Name><Telephone>2774702</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Elliot McPike</Name><Telephone>2774801</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>EM201</Name><Telephone>2774811</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Elliot McPike</Name><Telephone>2774814</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>EM 201</Name><Telephone>2774835</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>123yay</Name><Telephone>2774920</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>123yay</Name><Telephone>2774949</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Volvo Likes cisco</Name><Telephone>2775050</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Jessie H.</Name><Telephone>2775377</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Fynns ATA</Name><Telephone>2775419</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>John Lenovo</Name><Telephone>2775458</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Nick</Name><Telephone>2775500</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Volvo Station Wagon</Name><Telephone>2775555</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Elliot's Kitchenette</Name><Telephone>2775676</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Elliot's Entrance Phone</Name><Telephone>2775677</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Daniel's 7841</Name><Telephone>4445</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Daniel Vise 8845-3PCC</Name><Telephone>4446</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Daniel 8811 Enterprise</Name><Telephone>4447</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Daniel's Cisco SPA 525G</Name><Telephone>4448</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Daniel's Cisco IPC</Name><Telephone>4449</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Daniel's Landline</Name><Telephone>4466</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Brandon Sims</Name><Telephone>4551</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>CIPC</Name><Telephone>4566</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Ryan's Bedroom</Name><Telephone>4567</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Ryan's Closet</Name><Telephone>4568</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Ryan's MicroSIP</Name><Telephone>4569</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Ryan's Office</Name><Telephone>4570</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Upstairs Phone</Name><Telephone>4571</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Living Room Phone</Name><Telephone>4572</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Ryan's Conference Phone</Name><Telephone>4580</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Haruk</Name><Telephone>4673</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Hello2 Cell</Name><Telephone>4702</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Elliot McPike</Name><Telephone>4801</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>EM201</Name><Telephone>4811</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Elliot McPike</Name><Telephone>4814</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>EM 201</Name><Telephone>4835</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>123yay</Name><Telephone>4920</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>123yay</Name><Telephone>4949</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Volvo Likes cisco</Name><Telephone>5050</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Jessie H.</Name><Telephone>5377</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Fynns ATA</Name><Telephone>5419</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>John Lenovo</Name><Telephone>5458</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Nick</Name><Telephone>5500</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Volvo Station Wagon</Name><Telephone>5555</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Elliot's Kitchenette</Name><Telephone>5676</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Elliot's Entrance Phone</Name><Telephone>5677</Telephone></DirectoryEntry>
 </CiscoIPPhoneDirectory>
