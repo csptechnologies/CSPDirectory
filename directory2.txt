@@ -46,7 +46,7 @@
     <Name>Dial</Name>
     <URL>SoftKey:Select</URL>
     <Position>3</Position>
-  <SoftKeyItem>
+  </SoftKeyItem>
   <SoftKeyItem>
     <Name>Exit</Name>
     <URL>SoftKey:Exit</URL>
