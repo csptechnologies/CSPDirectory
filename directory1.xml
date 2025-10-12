@@ -32,4 +32,19 @@
   <DirectoryEntry><Name>Nyx Kemo</Name><Telephone>1432</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Tech K E</Name><Telephone>1450</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Jaxon Bruce</Name><Telephone>1738</Telephone></DirectoryEntry>
+  <SoftKeyItem>
+    <Name>Back</Name>
+    <URL></URL>
+    <Position>1</Position>
+  </SoftKeyItem>
+  <SoftKeyItem>
+  <Name>Next</Name>
+    <URL>http://directory.csptech.org/directory2.xml</URL>
+    <Position>2</Position>
+  </SoftKeyItem>
+  <SoftKeyItem>
+    <Name>Exit</Name>
+    <URL>SoftKey:Exit</URL>
+    <Position>4</Position>
+  </SoftKeyItem>
 </CiscoIPPhoneDirectory>
