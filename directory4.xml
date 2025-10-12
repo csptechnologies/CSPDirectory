@@ -34,4 +34,19 @@
   <DirectoryEntry><Name>Maeio</Name><Telephone>8353</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Ryan's iPhone</Name><Telephone>8910</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Infinite Hold | End of Texas Extensions</Name><Telephone>8999</Telephone></DirectoryEntry>
+    <SoftKeyItem>
+    <Name>Back</Name>
+    <URL>http://directory.pbx.csptech.org/directory3.xml</URL>
+    <Position>1</Position>
+  </SoftKeyItem>
+  <SoftKeyItem>
+  <Name>Next</Name>
+    <URL></URL>
+    <Position>2</Position>
+  </SoftKeyItem>
+  <SoftKeyItem>
+    <Name>Exit</Name>
+    <URL>SoftKey:Exit</URL>
+    <Position>4</Position>
+  </SoftKeyItem>
 </CiscoIPPhoneDirectory>
