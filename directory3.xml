@@ -33,4 +33,19 @@
   <DirectoryEntry><Name>Volvo Station Wagon</Name><Telephone>5555</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Elliot's Kitchenette</Name><Telephone>5676</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Elliot's Entrance Phone</Name><Telephone>5677</Telephone></DirectoryEntry>
+    <SoftKeyItem>
+    <Name>Back</Name>
+    <URL>http://directory.pbx.csptech.org/directory2.xml</URL>
+    <Position>1</Position>
+  </SoftKeyItem>
+  <SoftKeyItem>
+  <Name>Next</Name>
+    <URL>http://directory.pbx.csptech.org/directory4.xml</URL>
+    <Position>2</Position>
+  </SoftKeyItem>
+  <SoftKeyItem>
+    <Name>Exit</Name>
+    <URL>SoftKey:Exit</URL>
+    <Position>4</Position>
+  </SoftKeyItem>
 </CiscoIPPhoneDirectory>
