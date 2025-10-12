@@ -36,13 +36,18 @@
   <DirectoryEntry><Name>Infinite Hold | End of Texas Extensions</Name><Telephone>8999</Telephone></DirectoryEntry>
     <SoftKeyItem>
     <Name>Back</Name>
-    <URL>http://directory.pbx.csptech.org/directory3.xml</URL>
+    <URL>http://directory.pbx.csptech.org/directory3.txt</URL>
     <Position>1</Position>
   </SoftKeyItem>
   <SoftKeyItem>
   <Name>Next</Name>
     <URL></URL>
     <Position>2</Position>
+  </SoftKeyItem>
+  <SoftKeyItem>
+  <Name>Dial</Name>
+    <URL>SoftKey:Select</URL>
+    <Position>3</Position>
   </SoftKeyItem>
   <SoftKeyItem>
     <Name>Exit</Name>
