@@ -14,13 +14,12 @@
   <DirectoryEntry><Name>iam_anate</Name><Telephone>2511</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Cindy</Name><Telephone>2600</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Not Recorded - Secondary Conference</Name><Telephone>2</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Jayden Moroney (7821)</Name><Telephone>2880</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Bryce Harrington</Name><Telephone>2893</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Bon's ATA</Name><Telephone>2911</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Sacha</Name><Telephone>3000</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Colin Eales</Name><Telephone>3010</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Sacha 2</Name><Telephone>3050</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Jessie</Name><Telephone>3144</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Jessie</Name><Telephone>3114</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Seagull Electrics</Name><Telephone>3131</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Hunter S.</Name><Telephone>3371</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Craftedkittens</Name><Telephone>3700</Telephone></DirectoryEntry>
