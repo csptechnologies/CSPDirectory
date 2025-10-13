@@ -13,7 +13,7 @@
   <DirectoryEntry><Name>Colin Eales (Grandstream)</Name><Telephone>2354</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>iam_anate</Name><Telephone>2511</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Cindy</Name><Telephone>2600</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Not Recorded - Secondary Conference</Name><Telephone>2</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>CSP Public Conference</Name><Telephone>2772</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Bryce Harrington</Name><Telephone>2893</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Bon's ATA</Name><Telephone>2911</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Sacha</Name><Telephone>3000</Telephone></DirectoryEntry>
