@@ -21,7 +21,6 @@
   <DirectoryEntry><Name>Sacha 2</Name><Telephone>3050</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Jessie</Name><Telephone>3114</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Seagull Electrics</Name><Telephone>3131</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Hunter S.</Name><Telephone>3371</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Craftedkittens</Name><Telephone>3700</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Bon's Polycom</Name><Telephone>3865</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Bon's Polycom</Name><Telephone>4004</Telephone></DirectoryEntry>
