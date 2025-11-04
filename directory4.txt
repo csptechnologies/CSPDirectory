@@ -11,7 +11,7 @@
   <DirectoryEntry><Name>Elliot's Karaoke Machine Phone</Name><Telephone>5702</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Elliot's CIPC</Name><Telephone>5703</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Elliot's THing</Name><Telephone>5704</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Larry</Name><Telephone>5705</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Lawrence</Name><Telephone>5705</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Bon's 8851 Enterprise</Name><Telephone>5815</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>HTC EVO Shift 4G</Name><Telephone>5901</Telephone></DirectoryEntry>
   <DirectoryEntry><Name>Elliot's S6 Edge</Name><Telephone>5902</Telephone></DirectoryEntry>
