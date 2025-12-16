@@ -1,7 +1,7 @@
 <CiscoIPPhoneInput>
       <Title>Directory Search</Title>
       <Prompt>Enter search criteria</Prompt>
-      <URL>http://minnesota.pbx.csptech.org:8443</URL>
+      <URL>http://minnesota.pbx.csptech.org:8443/search</URL>
       <InputItem>
         <DisplayName>First Name</DisplayName>
         <QueryStringParam>f</QueryStringParam>
