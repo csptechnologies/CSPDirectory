@@ -1,55 +1,38 @@
-<?xml version="1.0"?>
-<CiscoIPPhoneDirectory>
-  <Title>Corporate Directory</Title>
-  <Prompt>Select a contact</Prompt>
-  <DirectoryEntry><Name>CSP Main IVR</Name><Telephone>0000</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>craftedkittens</Name><Telephone>0030</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Sebasthian C.</Name><Telephone>0144</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Cindy</Name><Telephone>0411</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>ansonzxv</Name><Telephone>0975</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Buba</Name><Telephone>1000</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Buba</Name><Telephone>1001</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Buba</Name><Telephone>1003</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Leo S.</Name><Telephone>1004</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Leo S.</Name><Telephone>1005</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Buba</Name><Telephone>1007</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>X Burton</Name><Telephone>1024</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Hello2 ATA</Name><Telephone>1026</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Nyx Kemo (Desk)</Name><Telephone>1032</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Colin Eales (7841)</Name><Telephone>1034</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Thomas Jensen (8845)</Name><Telephone>1035</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Thomas Jensen (7841)</Name><Telephone>1038</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>clxdyy</Name><Telephone>1040</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>clxdyy</Name><Telephone>1041</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>CSP SwitchBoard</Name><Telephone>1111</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Hello2</Name><Telephone>1115</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Fishy in the Sea (Cooper)</Name><Telephone>1122</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Nyx Kemo (SPA)</Name><Telephone>1132</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Ayzkxnt</Name><Telephone>1163</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Colin Eales</Name><Telephone>1206</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Nyx Kemo (SoftPhone)</Name><Telephone>1232</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Nyx Kemo (SPA122)</Name><Telephone>1332</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Nyx Kemo</Name><Telephone>1432</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Tech K E</Name><Telephone>1450</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Jaxon Bruce</Name><Telephone>1738</Telephone></DirectoryEntry>
-  <SoftKeyItem>
-    <Name>Back</Name>
-    <URL></URL>
-    <Position>1</Position>
-  </SoftKeyItem>
-  <SoftKeyItem>
-  <Name>Next</Name>
-    <URL>http://directory.pbx.csptech.org/directory2.txt</URL>
-    <Position>2</Position>
-  </SoftKeyItem>
-  <SoftKeyItem>
-  <Name>Dial</Name>
-    <URL>SoftKey:Select</URL>
-    <Position>3</Position>
-  </SoftKeyItem>
-  <SoftKeyItem>
-    <Name>Exit</Name>
-    <URL>SoftKey:Exit</URL>
-    <Position>4</Position>
-  </SoftKeyItem>
-</CiscoIPPhoneDirectory>
+<CiscoIPPhoneInput>
+      <Title>Directory Search</Title>
+      <Prompt>Enter search criteria</Prompt>
+      <URL>http://minnesota.pbx.csptech.org:8443</URL>
+      <InputItem>
+        <DisplayName>First Name</DisplayName>
+        <QueryStringParam>f</QueryStringParam>
+        <InputFlags>A</InputFlags>
+        <DefaultValue />
+      </InputItem>
+      <InputItem>
+        <DisplayName>Last Name</DisplayName>
+        <QueryStringParam>l</QueryStringParam>
+        <InputFlags>A</InputFlags>
+        <DefaultValue />
+      </InputItem>
+      <InputItem>
+        <DisplayName>Number</DisplayName>
+        <QueryStringParam>n</QueryStringParam>
+        <InputFlags>T</InputFlags>
+        <DefaultValue />
+      </InputItem>
+      <SoftKeyItem>
+        <Name>Search</Name>
+        <Position>1</Position>
+        <URL>SoftKey:Submit</URL>
+      </SoftKeyItem>
+      <SoftKeyItem>
+        <Name>&lt;&lt;</Name>
+        <Position>2</Position>
+        <URL>SoftKey:&lt;&lt;</URL>
+      </SoftKeyItem>
+      <SoftKeyItem>
+        <Name>Cancel</Name>
+        <Position>3</Position>
+        <URL>SoftKey:Cancel</URL>
+      </SoftKeyItem>
+    </CiscoIPPhoneInput>
