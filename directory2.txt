@@ -32,7 +32,7 @@
   <DirectoryEntry><Name>Daniel's Yealink</Name><Telephone>4444</Telephone></DirectoryEntry>
   <SoftKeyItem>
     <Name>Back</Name>
-    <URL>http://directory.pbx.csptech.org/directory1.txt</URL>
+    <URL>http://directory.pbx.csptech.org/directory_legacy.txt</URL>
     <Position>1</Position>
   </SoftKeyItem>
   <SoftKeyItem>
